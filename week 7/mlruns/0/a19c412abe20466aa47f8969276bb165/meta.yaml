@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Academic/Lambton/AML-3303-OTT01-Software%20Tools/mlruns/0/a19c412abe20466aa47f8969276bb165/artifacts
+end_time: 1760749779256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a19c412abe20466aa47f8969276bb165
+run_name: bouncy-asp-759
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760749772331
+status: 3
+tags: []
+user_id: akash

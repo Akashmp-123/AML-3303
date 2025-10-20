@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Academic/Lambton/AML-3303-OTT01-Software%20Tools/mlruns/0/6e98bab6dfc341dca96c1133caee3a5b/artifacts
+end_time: 1760749597639
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6e98bab6dfc341dca96c1133caee3a5b
+run_name: placid-sheep-697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760749588561
+status: 3
+tags: []
+user_id: akash

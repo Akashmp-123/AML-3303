@@ -1,0 +1,22 @@
+artifact_path: file:///E:/Academic/Lambton/AML-3303-OTT01-Software%20Tools/mlruns/0/models/m-cdd59a441b3747b38d04ad5ceb865dd7/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.2
+mlflow_version: 3.5.0
+model_id: m-cdd59a441b3747b38d04ad5ceb865dd7
+model_size_bytes: 85725
+model_uuid: m-cdd59a441b3747b38d04ad5ceb865dd7
+prompts: null
+run_id: 94b862db43b24ecfa57fabadad4a71f4
+utc_time_created: '2025-10-18 01:04:46.145495'

@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/Academic/Lambton/AML-3303-OTT01-Software%20Tools/mlruns/0/94b862db43b24ecfa57fabadad4a71f4/artifacts
+end_time: 1760749497193
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 94b862db43b24ecfa57fabadad4a71f4
+run_name: dapper-finch-698
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1760749485858
+status: 3
+tags: []
+user_id: akash

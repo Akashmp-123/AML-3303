@@ -1,0 +1,10 @@
+artifact_location: file:///E:/Academic/Lambton/AML-3303-OTT01-Software%20Tools/mlruns/0/models/m-757b8138ae5a42be8f993960e6d46671/artifacts
+creation_timestamp: 1760749588734
+experiment_id: '0'
+last_updated_timestamp: 1760749597584
+model_id: m-757b8138ae5a42be8f993960e6d46671
+model_type: null
+name: model
+source_run_id: 6e98bab6dfc341dca96c1133caee3a5b
+status: 2
+status_message: null
