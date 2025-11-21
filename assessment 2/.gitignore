@@ -70,11 +70,6 @@ desktop.ini
 # Logs
 *.log
 
-# Plots and Outputs
-*.png
-*.jpg
-*.pdf
-model_comparison.png
 
 # Temporary files
 *.tmp
