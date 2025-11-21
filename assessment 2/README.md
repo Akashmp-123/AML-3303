@@ -292,7 +292,7 @@ The project follows a systematic 8-phase approach to model development:
 1. **Linear Regression** - Baseline linear model
 2. **Ridge Regression** - Regularized linear model
 3. **Random Forest** - Ensemble of decision trees
-4. **Gradient Boosting** - Sequential boosting algorithm ⭐ **Best**
+4. **Gradient Boosting** - Sequential boosting algorithm
 5. **XGBoost** - Optimized gradient boosting
 6. **LightGBM** - Fast gradient boosting variant
 
@@ -314,7 +314,7 @@ The project follows a systematic 8-phase approach to model development:
 
 | Model | RMSE | R² | Training Time | Status |
 |-------|------|-----|---------------|--------|
-| Gradient Boosting | $6.19 | 0.9965 | 4.2s | ⭐ **Selected** |
+| Gradient Boosting | $6.19 | 0.9965 | 4.2s |
 | LightGBM | $10.29 | 0.9904 | 2.1s | Runner-up |
 | XGBoost | $11.33 | 0.9883 | 5.8s | Good |
 | Random Forest | $9.77 | 0.9913 | 8.3s | Good |
